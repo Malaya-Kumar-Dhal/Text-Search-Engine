@@ -1,0 +1,6 @@
+# Desktop app (main.py): needs only Python 3.8+ with Tkinter - no packages required.
+# Optional, better stemming (Porter stemmer):
+nltk
+# Web app (web/streamlit_app.py):
+streamlit>=1.50
+pandas
